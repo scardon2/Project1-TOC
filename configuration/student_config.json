@@ -1,0 +1,11 @@
+{
+    "Project Configuration": {
+        "Selection": {
+            "name": "sat",
+            "value": "SAT"
+        },
+        "Sub Problem": [
+            { "name": "btracking",   "value": "Backtracking" }
+        ]
+    }
+}
