@@ -12,7 +12,9 @@ def parse_multi_instance_dimacs(path: str) -> Tuple[str, int, List[List[int]]]:
 
     instances = []
     with open(path) as f:
-        lines = [ln.strip() for ln in f if ln.strip()]
+        # turn commas into spaces, to handle both formats
+        lines = [ln.replace(",", " ").strip() for ln in f if ln.strip()]
+        #lines = [ln.strip() for ln in f if ln.strip()]
     
     i = 0
     while i < len(lines):

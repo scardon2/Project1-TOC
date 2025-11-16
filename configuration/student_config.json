@@ -5,7 +5,14 @@
             "value": "SAT"
         },
         "Sub Problem": [
-            { "name": "btracking",   "value": "Backtracking" }
+            {
+                "name": "brute_force",
+                "value": "Brute Force"
+            },
+            {
+                "name": "btracking",
+                "value": "Backtracking"
+            }
         ]
     }
 }

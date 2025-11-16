@@ -1,0 +1,101 @@
+instance_id,n_vars,n_clauses,method,satisfiable,time_seconds,solution
+1000,4,9,BruteForce,S,1.4833989553153515e-05,"{1: True, 2: False, 3: False, 4: False}"
+1001,4,9,BruteForce,U,1.462499494664371e-05,{}
+1002,4,9,BruteForce,S,3.4999975468963385e-06,"{1: False, 2: False, 3: False, 4: True}"
+1003,4,9,BruteForce,S,6.750007742084563e-06,"{1: False, 2: True, 3: False, 4: True}"
+1004,4,9,BruteForce,U,1.1334006558172405e-05,{}
+1005,4,9,BruteForce,U,9.167008101940155e-06,{}
+1006,4,9,BruteForce,U,1.5708006685599685e-05,{}
+1007,4,9,BruteForce,S,3.416003892198205e-06,"{1: False, 2: False, 3: False, 4: True}"
+1008,4,9,BruteForce,S,3.249995643272996e-06,"{1: False, 2: False, 3: False, 4: True}"
+1009,4,9,BruteForce,S,6.54099858365953e-06,"{1: False, 2: True, 3: False, 4: False}"
+1010,8,18,BruteForce,S,0.00013958298950456083,"{1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: True}"
+1011,8,18,BruteForce,S,6.116701115388423e-05,"{1: False, 2: True, 3: False, 4: True, 5: False, 6: True, 7: True, 8: False}"
+1012,8,18,BruteForce,S,0.00010395899880677462,"{1: False, 2: True, 3: True, 4: False, 5: True, 6: False, 7: True, 8: True}"
+1013,8,18,BruteForce,U,0.000206666998565197,{}
+1014,8,18,BruteForce,U,0.0002382079983362928,{}
+1015,8,18,BruteForce,U,0.00021158299932722002,{}
+1016,8,18,BruteForce,U,0.00029354200523812324,{}
+1017,8,18,BruteForce,S,0.00016737499390728772,"{1: True, 2: False, 3: True, 4: False, 5: False, 6: True, 7: True, 8: False}"
+1018,8,18,BruteForce,S,2.837499778252095e-05,"{1: False, 2: False, 3: True, 4: False, 5: False, 6: False, 7: False, 8: False}"
+1019,8,18,BruteForce,U,0.00019341699953656644,{}
+1020,12,20,BruteForce,U,0.004479750001337379,{}
+1021,12,20,BruteForce,S,8.900000830180943e-05,"{1: False, 2: False, 3: False, 4: False, 5: False, 6: True, 7: False, 8: True, 9: False, 10: True, 11: True, 12: False}"
+1022,12,20,BruteForce,S,0.0028125410026405007,"{1: True, 2: False, 3: True, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: True, 12: True}"
+1023,12,20,BruteForce,S,0.00012445799075067043,"{1: False, 2: False, 3: False, 4: False, 5: False, 6: True, 7: True, 8: True, 9: False, 10: True, 11: False, 12: True}"
+1024,12,20,BruteForce,S,0.00330325000686571,"{1: True, 2: True, 3: False, 4: False, 5: True, 6: True, 7: False, 8: True, 9: True, 10: True, 11: False, 12: True}"
+1025,12,20,BruteForce,S,0.0006825839955126867,"{1: False, 2: False, 3: True, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: True, 11: True, 12: True}"
+1026,12,20,BruteForce,U,0.004339166000136174,{}
+1027,12,20,BruteForce,U,0.0041882499936036766,{}
+1028,12,20,BruteForce,U,0.004175166992354207,{}
+1029,12,20,BruteForce,U,0.004417999996803701,{}
+1030,16,30,BruteForce,S,0.022600208001676947,"{1: False, 2: True, 3: False, 4: False, 5: True, 6: False, 7: False, 8: True, 9: False, 10: True, 11: False, 12: True, 13: True, 14: False, 15: True, 16: True}"
+1031,16,30,BruteForce,U,0.06585470799473114,{}
+1032,16,30,BruteForce,S,0.031302457995479926,"{1: False, 2: True, 3: True, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: True, 12: False, 13: True, 14: False, 15: False, 16: True}"
+1033,16,30,BruteForce,S,0.043404791998909786,"{1: True, 2: False, 3: True, 4: False, 5: False, 6: True, 7: False, 8: False, 9: False, 10: True, 11: True, 12: False, 13: False, 14: False, 15: False, 16: False}"
+1034,16,30,BruteForce,U,0.07012966599722859,{}
+1035,16,30,BruteForce,S,0.004893249992164783,"{1: False, 2: False, 3: False, 4: False, 5: True, 6: True, 7: False, 8: True, 9: False, 10: True, 11: True, 12: True, 13: True, 14: True, 15: False, 16: False}"
+1036,16,30,BruteForce,U,0.074985083003412,{}
+1037,16,30,BruteForce,S,0.0012360419932520017,"{1: False, 2: False, 3: False, 4: False, 5: False, 6: True, 7: False, 8: False, 9: True, 10: False, 11: False, 12: True, 13: True, 14: False, 15: True, 16: False}"
+1038,16,30,BruteForce,U,0.07271349999064114,{}
+1039,16,30,BruteForce,S,0.005273000002489425,"{1: False, 2: False, 3: False, 4: True, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: True}"
+1040,18,32,BruteForce,U,0.3219054170040181,{}
+1041,18,32,BruteForce,U,0.3444281660049455,{}
+1042,18,32,BruteForce,U,0.2946609589998843,{}
+1043,18,32,BruteForce,S,0.01972695899894461,"{1: False, 2: False, 3: False, 4: True, 5: False, 6: False, 7: False, 8: False, 9: True, 10: False, 11: False, 12: False, 13: True, 14: True, 15: False, 16: False, 17: True, 18: True}"
+1044,18,32,BruteForce,U,0.31740579099277966,{}
+1045,18,32,BruteForce,S,0.12517845799447969,"{1: False, 2: True, 3: True, 4: False, 5: True, 6: True, 7: False, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: False, 18: False}"
+1046,18,32,BruteForce,S,0.20315012500213925,"{1: True, 2: False, 3: True, 4: False, 5: False, 6: True, 7: False, 8: False, 9: True, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: True}"
+1047,18,32,BruteForce,U,0.28794837500026915,{}
+1048,18,32,BruteForce,S,0.25508945899491664,"{1: True, 2: True, 3: False, 4: True, 5: False, 6: True, 7: True, 8: False, 9: True, 10: False, 11: True, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False}"
+1049,18,32,BruteForce,U,0.3002437090035528,{}
+1050,20,33,BruteForce,U,1.3589269169897307,{}
+1051,20,33,BruteForce,S,0.26118966699868906,"{1: False, 2: False, 3: True, 4: True, 5: False, 6: False, 7: True, 8: False, 9: True, 10: True, 11: False, 12: True, 13: False, 14: False, 15: False, 16: True, 17: False, 18: True, 19: True, 20: False}"
+1052,20,33,BruteForce,S,0.31072883399610873,"{1: False, 2: True, 3: False, 4: False, 5: False, 6: True, 7: False, 8: False, 9: False, 10: True, 11: False, 12: False, 13: True, 14: True, 15: False, 16: True, 17: False, 18: False, 19: True, 20: True}"
+1053,20,33,BruteForce,S,0.027355583995813504,"{1: False, 2: False, 3: False, 4: False, 5: False, 6: True, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: True, 14: False, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True}"
+1054,20,33,BruteForce,U,1.2173617079970427,{}
+1055,20,33,BruteForce,U,1.0828320830041775,{}
+1056,20,33,BruteForce,U,1.2568255829974078,{}
+1057,20,33,BruteForce,S,0.1620748330024071,"{1: False, 2: False, 3: True, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: True, 11: False, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: False, 19: True, 20: False}"
+1058,20,33,BruteForce,U,1.2627121249970514,{}
+1059,20,33,BruteForce,U,1.2652688749949448,{}
+1060,22,38,BruteForce,S,1.7085813750018133,"{1: False, 2: True, 3: False, 4: False, 5: True, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False}"
+1061,22,38,BruteForce,S,3.9021455829933984,"{1: True, 2: True, 3: False, 4: False, 5: False, 6: True, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: True, 14: False, 15: False, 16: True, 17: True, 18: True, 19: False, 20: True, 21: False, 22: True}"
+1062,22,38,BruteForce,U,5.279738541998086,{}
+1063,22,38,BruteForce,S,0.024683041992830113,"{1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: False, 21: True, 22: True}"
+1064,22,38,BruteForce,S,1.7227036249969387,"{1: False, 2: True, 3: False, 4: True, 5: False, 6: False, 7: True, 8: False, 9: True, 10: True, 11: False, 12: True, 13: False, 14: False, 15: False, 16: True, 17: False, 18: False, 19: False, 20: True, 21: False, 22: True}"
+1065,22,38,BruteForce,S,0.15912891599873547,"{1: False, 2: False, 3: False, 4: False, 5: True, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: True, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: False, 22: False}"
+1066,22,38,BruteForce,U,5.649987707991386,{}
+1067,22,38,BruteForce,U,5.231583999993745,{}
+1068,22,38,BruteForce,S,2.6493461669888347,"{1: False, 2: True, 3: True, 4: True, 5: False, 6: True, 7: False, 8: True, 9: True, 10: True, 11: False, 12: True, 13: False, 14: True, 15: False, 16: False, 17: True, 18: False, 19: False, 20: True, 21: True, 22: False}"
+1069,22,38,BruteForce,U,5.4643209999921964,{}
+1070,24,43,BruteForce,U,22.839817666987074,{}
+1071,24,43,BruteForce,S,4.66424429199833,"{1: False, 2: False, 3: True, 4: True, 5: False, 6: True, 7: False, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False}"
+1072,24,43,BruteForce,S,0.17025908301002346,"{1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: True, 12: False, 13: False, 14: False, 15: True, 16: True, 17: False, 18: False, 19: True, 20: False, 21: True, 22: False, 23: False, 24: False}"
+1073,24,43,BruteForce,U,22.873970458007534,{}
+1074,24,43,BruteForce,U,22.802207625005394,{}
+1075,24,43,BruteForce,U,22.34382729200297,{}
+1076,24,43,BruteForce,S,9.379911416996038,"{1: False, 2: True, 3: True, 4: False, 5: True, 6: False, 7: False, 8: False, 9: True, 10: False, 11: False, 12: False, 13: True, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False}"
+1077,24,43,BruteForce,U,23.506681999991997,{}
+1078,24,43,BruteForce,S,17.13758104099543,"{1: True, 2: True, 3: False, 4: False, 5: False, 6: False, 7: False, 8: True, 9: True, 10: False, 11: False, 12: False, 13: True, 14: False, 15: True, 16: False, 17: False, 18: True, 19: False, 20: True, 21: True, 22: False, 23: False, 24: True}"
+1079,24,43,BruteForce,S,10.237555332991178,"{1: False, 2: True, 3: True, 4: True, 5: False, 6: False, 7: False, 8: False, 9: False, 10: True, 11: False, 12: False, 13: False, 14: False, 15: True, 16: True, 17: False, 18: True, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False}"
+1080,26,45,BruteForce,U,86.25935849999951,{}
+1081,26,45,BruteForce,S,82.91120841600059,"{1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: False, 9: True, 10: False, 11: False, 12: False, 13: True, 14: True, 15: True, 16: True, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False}"
+1082,26,45,BruteForce,U,96.36478737500147,{}
+1083,26,45,BruteForce,U,94.15217083299649,{}
+1084,26,45,BruteForce,U,97.72919291700236,{}
+1085,26,45,BruteForce,U,97.58476979199622,{}
+1086,26,45,BruteForce,S,52.55293195800914,"{1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: False, 10: False, 11: True, 12: True, 13: False, 14: True, 15: True, 16: False, 17: False, 18: True, 19: False, 20: False, 21: False, 22: True, 23: False, 24: True, 25: True, 26: True}"
+1087,26,45,BruteForce,S,44.286328624992166,"{1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: True, 9: False, 10: False, 11: False, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: False, 19: False, 20: False, 21: False, 22: False, 23: True, 24: False, 25: False, 26: True}"
+1088,26,45,BruteForce,U,99.67125045799185,{}
+1089,26,45,BruteForce,S,0.07501091599988285,"{1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: True, 12: False, 13: False, 14: True, 15: False, 16: True, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: True, 24: False, 25: False, 26: True}"
+1090,28,47,BruteForce,U,408.8679723330133,{}
+1091,28,47,BruteForce,S,3.3134574169962434,"{1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: True, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: False, 22: False, 23: False, 24: True, 25: True, 26: True, 27: True, 28: True}"
+1092,28,47,BruteForce,U,396.37036804200034,{}
+1093,28,47,BruteForce,U,389.8405667079933,{}
+1094,28,47,BruteForce,U,386.7634799590014,{}
+1095,28,47,BruteForce,S,11.839657249991433,"{1: False, 2: False, 3: False, 4: False, 5: True, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: True, 14: True, 15: False, 16: False, 17: True, 18: False, 19: False, 20: True, 21: False, 22: False, 23: False, 24: True, 25: False, 26: False, 27: True, 28: False}"
+1096,28,47,BruteForce,S,13.244069583000964,"{1: False, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: True, 22: False, 23: True, 24: False, 25: False, 26: False, 27: True, 28: False}"
+1097,28,47,BruteForce,S,182.6620172920084,"{1: True, 2: False, 3: False, 4: False, 5: False, 6: True, 7: False, 8: False, 9: False, 10: False, 11: True, 12: False, 13: True, 14: True, 15: False, 16: True, 17: True, 18: True, 19: True, 20: False, 21: True, 22: True, 23: False, 24: False, 25: False, 26: False, 27: True, 28: False}"
+1098,28,47,BruteForce,U,408.804557209005,{}
+1099,28,47,BruteForce,S,73.30276666700956,"{1: False, 2: False, 3: True, 4: False, 5: True, 6: True, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: True, 17: False, 18: False, 19: False, 20: False, 21: True, 22: False, 23: True, 24: False, 25: False, 26: False, 27: False, 28: False}"
